@@ -1,0 +1,29 @@
+
+.mac-pro-section{
+    background-image: url("/img/bg-2.png");
+    background-repeat: no-repeat;
+    background-size: 10%;
+    bottom: 0;
+    left: 0;
+    background-position: left bottom;
+}
+
+.card{
+    margin: 0 auto;
+    display: block;
+}
+
+.bag{
+    border: 1px solid gray;
+    padding: 40px 10px;
+    border-radius: 5px;
+    background: #fff;
+    box-shadow: 1px 1px 15px;
+}
+
+.cat-bottom{
+    border-bottom: 8px solid orange;
+    width: 170px;
+    margin: 0 auto;
+    padding: 9px;
+}
